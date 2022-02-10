@@ -1,5 +1,6 @@
 # Poisson Image Editing
 > Python Implementation of the poisson image editing paper: https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf
+> ucl comp0026 image processing coursework
 
 ### Naive Filling
 ![](readmeImages/low_high_freq.png)
